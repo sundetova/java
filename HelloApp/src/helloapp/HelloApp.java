@@ -23,7 +23,7 @@ public class HelloApp {
         FileReader fr = new FileReader("c:\a.txt");
        
         catch (IOException e);*/
-        char[] Array={'A','i','d','a'};
+        char[] Array={'J','o','l','a'};
         
         for(int i=0;i<Array.length;i++)
         {
